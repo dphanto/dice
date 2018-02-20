@@ -4,7 +4,7 @@
 
 int main(){
 
-	int input, result;
+	int input;
 
 	srand(time(0)); //must be set before rand()
 
